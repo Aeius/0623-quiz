@@ -1,0 +1,6 @@
+item/__pycache__/
+item/migrations/
+product/__pycache__/
+venv/
+product/settings.py
+.idea/
